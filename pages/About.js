@@ -1,6 +1,6 @@
 const About = () => (
     <div>
-      <p>Hello</p>
+      <p>Hello2</p>
     </div>
   );
   
