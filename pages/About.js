@@ -1,6 +1,6 @@
 const About = () => (
     <div>
-      <p>Hello Next.js</p>
+      <p>Hello</p>
     </div>
   );
   
